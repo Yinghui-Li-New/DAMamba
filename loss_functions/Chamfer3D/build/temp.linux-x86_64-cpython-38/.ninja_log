@@ -1,0 +1,5 @@
+# ninja log v5
+0	7080	1716903138711935379	/home/john/Downloads/SnowflakeNet-main/loss_functions/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer3D.o	10426323082fa2d8
+0	10363	1716903141991968127	/home/john/Downloads/SnowflakeNet-main/loss_functions/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	841f338197edab1c
+2	7053	1716905428446279349	/home/john/Downloads/SnowflakeNet-main/loss_functions/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer3D.o	b33525b82264b519
+2	10395	1716905431786302778	/home/john/Downloads/SnowflakeNet-main/loss_functions/Chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	be84fcb6aa1a9284

@@ -1,0 +1,8 @@
+# ninja log v5
+1	6972	1716793601618250780	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd_cuda.o	b17fcb81d1adb27e
+0	10362	1716793605002300540	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd.o	234e65548042dd0f
+4	7262	1716901064643096032	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd_cuda.o	be5604ea11073732
+4	10236	1716901067603119043	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd.o	64cd0d9f5324680f
+4	10458	1716903874795007218	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd.o	64cd0d9f5324680f
+2	7170	1716905440278362423	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd_cuda.o	10dbf4736d1d90f2
+2	10475	1716905443578385631	/home/john/Downloads/SnowflakeNet-main/loss_functions/emd/build/temp.linux-x86_64-cpython-38/emd.o	cffbbefa2d1bb2c0
